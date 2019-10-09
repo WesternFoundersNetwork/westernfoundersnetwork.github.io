@@ -1,4 +1,4 @@
-# AI for Everyone, Introduction to Computer Visino
+# AI for Everyone, Introduction to Computer Vision
 ## Getting Started with AI 
 - [Magic Sketchpad](https://magenta.tensorflow.org/assets/sketch_rnn_demo/multi_predict.html)
 

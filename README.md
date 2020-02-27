@@ -6,5 +6,5 @@
 
 
 ## Building a Portfolio Site
-<a href="sample.zip" download="sample.zip">Download Images</a>   ####!!TODO: actually provide the files to download
+<a href="samples.zip" download="samples.zip">Download Images</a>   ####!!TODO: actually provide the files to download
 
